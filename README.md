@@ -38,5 +38,5 @@ npm install
 npm run dev
 
 📸 Screenshots
-![image](https://drive.google.com/file/d/1tdeJvESWOfoVkjkJqFtaSpHYlyg5jfbN/view?usp=sharing)
+(https://drive.google.com/file/d/1tdeJvESWOfoVkjkJqFtaSpHYlyg5jfbN/view?usp=sharing)
 
