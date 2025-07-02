@@ -12,7 +12,7 @@ A Google Sheets–like task dashboard built in **React + TypeScript** with Tailw
 
 ## 📂 GitHub Repo
 
-🔗 [https://github.com/yourusername/job-dashboard](https://github.com/yourusername/job-dashboard)
+🔗 [https://github.com/ArindamDutta2004/Spreadsheet](https://github.com/ArindamDutta2004/Spreadsheet)
 
 ---
 
