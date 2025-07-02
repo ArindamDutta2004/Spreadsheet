@@ -6,7 +6,7 @@ A Google Sheets–like task dashboard built in **React + TypeScript** with Tailw
 
 ## 🚀 Live Demo
 
-🔗 [https://spreadsheet-dhwmh3w09-arindam-duttas-projects-bd121fd4.vercel.app](https://[your-project.vercel.app](https://spreadsheet-dhwmh3w09-arindam-duttas-projects-bd121fd4.vercel.app))
+🔗 [https://spreadsheet-dhwmh3w09-arindam-duttas-projects-bd121fd4.vercel.app](https://spreadsheet-dhwmh3w09-arindam-duttas-projects-bd121fd4.vercel.app)
 
 ---
 
