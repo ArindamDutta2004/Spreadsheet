@@ -488,13 +488,13 @@ function App() {
                 <Grid3X3 className="w-4 h-4" />
                 <span>Cell view</span>
               </button>
-              <button
+{/*               <button
                 onClick={() => setIsAddCellModalOpen(true)}
                 className="flex items-center space-x-2 text-green-600 hover:text-green-700 px-3 py-1.5 rounded-md hover:bg-green-50 transition-colors"
               >
                 <Plus className="w-4 h-4" />
                 <span>Add Cell</span>
-              </button>
+              </button> */}
               {selectedRows.size > 0 && (
                 <button
                   onClick={handleDeleteSelected}
